@@ -1,6 +1,8 @@
 #ifndef SOPHIA_H_
 #define SOPHIA_H_
 
+#undef __BLOCKS__
+
 /*
  * sophia database
  * sphia.org
